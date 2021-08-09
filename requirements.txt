@@ -1,0 +1,5 @@
+torch==1.6.0
+transformers==4.3.0
+vaderSentiment==3.3.2
+parlai==1.1.0
+jsonlines==2.0.0
