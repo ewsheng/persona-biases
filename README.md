@@ -18,9 +18,10 @@ conda activate personabias
 pip install -r requirements.txt
 ```
 
-### Blender Setup
+### Offensiveness Test Setup
 To run the offensiveness bias test on the Blended Skill Talk dataset, you'll have to download the dataset [here](https://parl.ai/projects/bst/) (in `bst.pkl` format).
 
+To run this test on the RealToxicityPrompts dataset, you'll have to download the dataset [here](https://allenai.org/data/real-toxicity-prompts). 
 
 ### DialoGPT Setup
 The persona-DialoGPT model we describe in the original paper (DialoGPT-medium fine-tuned on PersonaChat) can be found [here](https://drive.google.com/file/d/19TNVr1a4jDVOKHpkr5cUxLw3vBxlsrVL/view?usp=sharing).
